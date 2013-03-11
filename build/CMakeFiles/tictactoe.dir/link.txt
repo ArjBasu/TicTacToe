@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/tictactoe.dir/main.cpp.o CMakeFiles/tictactoe.dir/AI.cpp.o CMakeFiles/tictactoe.dir/moc_AI.cxx.o  -o tictactoe -rdynamic 

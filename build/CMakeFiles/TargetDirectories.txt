@@ -1,0 +1,1 @@
+/home/Arj/QtSDK/SampleProject/build/CMakeFiles/tictactoe.dir
